@@ -1,0 +1,11 @@
+h1, h2 {
+  text-align: center;
+  font-family: Lato;
+}
+canvas{
+  border: solid 1px;
+}
+#wrap{
+  text-align: center;
+  width: 100%;
+}
